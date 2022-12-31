@@ -1,12 +1,12 @@
 import config from '../config/index.js';
 
 const zh = {
-  __COMMAND_ACTIVATE_LABEL: '開啟自動回覆',
+  __COMMAND_ACTIVATE_LABEL: '啟動',
   __COMMAND_ACTIVATE_TEXT: '開啟自動回覆',
   __COMMAND_ACTIVATE_REPLY: '已開啟自動回覆',
   __COMMAND_CALL_DEMO_LABEL: config.SETTING_AI_NAME,
   __COMMAND_CALL_DEMO_TEXT: `${config.SETTING_AI_NAME} 你好嗎？`,
-  __COMMAND_DEACTIVATE_LABEL: '關閉自動回覆',
+  __COMMAND_DEACTIVATE_LABEL: '閉嘴',
   __COMMAND_DEACTIVATE_TEXT: '關閉自動回覆',
   __COMMAND_DEACTIVATE_REPLY: '已關閉自動回覆',
   __COMMAND_TALK_LABEL: '請問',
